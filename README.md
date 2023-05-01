@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 👨‍💻 All of my projects are available at [owsym](owsym)
-
 - 💬 Ask me about **Python, CSS ,Html**
 
 - 📫 How to reach me **ocamafarooq.97@gmail.com**
