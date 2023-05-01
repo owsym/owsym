@@ -21,7 +21,7 @@
 <a href="https://kaggle.com/owsym97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="owsym97" height="30" width="40" /></a>
 <a href="https://fb.com/imowsym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imowsym" height="30" width="40" /></a>
 <a href="https://instagram.com/imowsym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imowsym" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/owsym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="owsym" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user7601cH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="owsym" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
