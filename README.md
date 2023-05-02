@@ -1,11 +1,13 @@
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Usama Farooq</h1>
 <h3 align="center">A passionate backend developer from pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owsym&label=Profile%20views&color=0e75b6&style=flat" alt="owsym" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owsym" alt="owsym" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imowsym" target="blank"><img src="https://img.shields.io/twitter/follow/imowsym?logo=twitter&style=for-the-badge" alt="imowsym" /></a> </p>
+<a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owsym&label=Profile%20views&color=0e75b6&style=flat" alt="owsym" /> </p>
 
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
