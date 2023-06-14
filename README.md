@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 💬 Ask me about **Python, CSS ,Html**
+- 💬 Ask me about **Python, HTML,CSS, React.Js**
 
 - 📫 How to reach me **ocamafarooq.97@gmail.com**
 <br/>
