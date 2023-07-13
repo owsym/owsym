@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Usama Farooq</h1>
-<h3 align="center">A passionate backend developer from pakistan</h3>
+<h3 align="center">A passionate Python/J.S developer from pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owsym" alt="owsym" /></a> </p>
 
