@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owsym" alt="owsym" /></a> </p>
 
 <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since May 1 2022" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owsym&label=Profile%20views&color=0e75b6&style=flat" alt="owsym" /> </p>
 
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
