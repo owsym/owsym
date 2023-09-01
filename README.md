@@ -5,7 +5,12 @@
 </p>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owsym" alt="owsym" /></a> </p>
+
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=owsym&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=owsym&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+  
+  
 
 <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since May 1 2022" /></a>
 
