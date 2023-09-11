@@ -14,6 +14,7 @@
 
 <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since May 1 2022" /></a>
 
+
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
 - 👩‍💻 I’m currently working on **Web & App Development**
@@ -24,6 +25,11 @@
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me **ocamafarooq.97@gmail.com**
 <br/>
+
+ - <p align="left"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/owsym/count.svg" />
+  </p>
 
   ## 💰 You can help me with
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ocamafarooq) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/owsym)
@@ -55,7 +61,4 @@
 </p>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/owsym/count.svg" />
-</p>
+
